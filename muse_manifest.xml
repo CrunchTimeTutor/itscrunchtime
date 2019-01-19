@@ -1,0 +1,188 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="crunchtimertutoring.com" resolutions="1x" timestamp="1547941882277">
+  <folder name="css">
+    <file name="site_global.css" crc="3805366785"/>
+    <file name="master_a-master-copy.css" crc="4246615079" ref="subjects:index:service-areas:contact"/>
+    <file name="subjects.css" crc="121855345" ref="subjects"/>
+    <file name="index.css" crc="4025258500" ref="index"/>
+    <file name="service-areas.css" crc="4166623187" ref="service-areas"/>
+    <file name="contact.css" crc="230478006" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>contact:phone>areas:phone>subjects:index:contact:subjects:service-areas"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:phone>contact:phone>areas:phone>subjects:index:contact:subjects:service-areas"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>contact:phone>areas:phone>subjects:index:contact:subjects:service-areas"/>
+    <file name="museconfig.js" crc="436936948" ref="phone>index:phone>contact:phone>areas:phone>subjects:index:contact:subjects:service-areas"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="phone>index:phone>contact:phone>areas:phone>subjects:index:contact:subjects:service-areas"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:phone>contact:phone>areas:phone>subjects:index:contact:subjects:service-areas"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:phone>areas:phone>subjects:index:contact:subjects:service-areas"/>
+    <file name="require.js" crc="85721165" ref="phone>index:phone>contact:phone>areas:phone>subjects:index:contact:subjects:service-areas"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-211251x116.jpg" crc="285941279" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-21-crop-u2238.png" crc="4148727339" seo="true" ref="phone>index:phone>contact:phone>areas:phone>subjects">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="areas" alt=""/>
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="u2495-4.png" crc="4059612763" ref="phone>index"/>
+    <file name="pasted image 370x318.jpg" crc="4014513409" seo="true" ref="phone>index:phone>areas:service-areas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="areas" alt=""/>
+      <caption webpage="areas" alt=""/>
+      <caption webpage="areas" alt=""/>
+      <caption webpage="areas" alt=""/>
+      <caption webpage="areas" alt=""/>
+      <caption webpage="areas" alt=""/>
+      <caption webpage="areas" alt=""/>
+      <caption webpage="areas" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+    </file>
+    <file name="u2586-4.png" crc="67779627" ref="phone>index"/>
+    <file name="u2386-10.png" crc="364687933" ref="phone>index"/>
+    <file name="u2346-4.png" crc="340388666" ref="phone>index:phone>contact:phone>areas:phone>subjects"/>
+    <file name="u2593-4.png" crc="399628537" ref="phone>contact"/>
+    <file name="u2590-6.png" crc="157856733" ref="phone>contact"/>
+    <file name="pasted image 159x177.jpg" crc="4173773706" seo="true" ref="phone>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u2600-4.png" crc="3892735193" ref="phone>contact"/>
+    <file name="pasted image 928x69657x43.jpg" crc="4033486696" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>contact:contact"/>
+    <file name="u2601_states.png" crc="4128863920" ref="phone>contact"/>
+    <file name="u2601_states-r.png" crc="4128863920" ref="phone>contact"/>
+    <file name="pasted image 405x131.jpg" crc="3781878687" seo="true" ref="phone>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u2602-5.png" crc="3986470090" ref="phone>contact"/>
+    <file name="pasted image 1000x347161x56.jpg" crc="148918548" seo="true" ref="phone>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u2603-5.png" crc="3943899714" ref="phone>contact"/>
+    <file name="u2472-4.png" crc="309958958" ref="phone>areas"/>
+    <file name="map1-u2475.png" crc="322255396" ref="phone>areas"/>
+    <file name="u2483-4.png" crc="84587947" ref="phone>areas"/>
+    <file name="u2487-4.png" crc="352608167" ref="phone>areas"/>
+    <file name="u2491-4.png" crc="24984544" ref="phone>areas"/>
+    <file name="u2548-4.png" crc="510857062" ref="phone>subjects"/>
+    <file name="u2545-4.png" crc="3809745170" ref="phone>subjects"/>
+    <file name="u2561-4.png" crc="4281959465" ref="phone>subjects"/>
+    <file name="u2558-27.png" crc="101152638" ref="phone>subjects"/>
+    <file name="u2576-17.png" crc="3948463962" ref="phone>subjects"/>
+    <file name="untitled-21-crop-u1582.png" crc="255580046" seo="true" ref="index:contact:subjects:service-areas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="side picture.png" crc="4095793599" seo="true" ref="index:contact:subjects:service-areas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="untitled-211.jpg" crc="4272958617" seo="true" ref="index:contact:subjects:service-areas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="pasted image 159x1772.jpg" crc="4173773706" seo="true" ref="index:contact:subjects:service-areas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="u1587-4.png" crc="190752803" ref="index:contact:subjects:service-areas"/>
+    <file name="u1596-4.png" crc="4013981401" ref="index:contact:subjects:service-areas"/>
+    <file name="u1190-4.png" crc="281642466" ref="index"/>
+    <file name="untitled-3.png" crc="410137169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1157-4.png" crc="144498082" ref="index"/>
+    <file name="untitled-6.png" crc="3819406032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1169-4.png" crc="4254559410" ref="index"/>
+    <file name="random-crop-u1101.png" crc="290545164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1172-4.png" crc="437318247" ref="index"/>
+    <file name="u1426-13.png" crc="3774892495" ref="index"/>
+    <file name="u1871-4.png" crc="346843711" ref="index"/>
+    <file name="untitled-211260x120.jpg" crc="233689771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 930x1080-crop-u1655.jpg" crc="4217630320" seo="true" ref="index:contact:subjects:service-areas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="pasted image 225x225-crop-u1584.jpg" crc="3985612227" seo="true" ref="index:contact:subjects:service-areas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="service-areas" alt=""/>
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="u1588-4.png" crc="502794964" ref="index:contact:subjects:service-areas"/>
+    <file name="u1580-6.png" crc="141675178" ref="index:contact:subjects:service-areas"/>
+    <file name="u1983-4.png" crc="479807938" ref="contact"/>
+    <file name="pasted image 1600x711.jpg" crc="54518866" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u1986-6.png" crc="524969354" ref="contact"/>
+    <file name="u2012-4.png" crc="227980185" ref="contact"/>
+    <file name="pasted image 928x696.jpg" crc="4139491962" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u2021-5.png" crc="417459500" ref="contact"/>
+    <file name="pasted image 1000x347.jpg" crc="3884076937" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u2024-5.png" crc="4216465807" ref="contact"/>
+    <file name="u2015_states.png" crc="90657551" ref="contact"/>
+    <file name="u2015_states-r.png" crc="90657551" ref="contact"/>
+    <file name="u1836-6.png" crc="4259819115" ref="subjects"/>
+    <file name="pasted image 800x600-crop-u1822.jpg" crc="4116525181" seo="true" ref="subjects">
+      <caption webpage="subjects" alt=""/>
+    </file>
+    <file name="map1-u1314.png" crc="4120467116" ref="service-areas"/>
+    <file name="u1748-4.png" crc="3976589932" ref="service-areas"/>
+    <file name="u1755-4.png" crc="4133065193" ref="service-areas"/>
+    <file name="u673-6.png" crc="387400194" ref="service-areas"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4148297571" ref="phone>contact:phone>index:phone>areas:phone>subjects"/>
+      <file name="contact.css" crc="318196358" ref="phone>contact"/>
+      <file name="index.css" crc="126847653" ref="phone>index"/>
+      <file name="areas.css" crc="4197719308" ref="phone>areas"/>
+      <file name="subjects.css" crc="4093161054" ref="phone>subjects"/>
+    </folder>
+    <file name="index.html" crc="101062106" seo="true" mt="1547818894698" redirect="true"/>
+    <file name="contact.html" crc="3825375246" seo="true" mt="1547819149504" redirect="true"/>
+    <file name="areas.html" crc="491141803" seo="true" mt="1547818894698" redirect="true"/>
+    <file name="subjects.html" crc="309084120" seo="true" mt="1547818894698" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3923694894" seo="true" mt="1547819108253" redirect="true"/>
+  <file name="contact.html" crc="88710178" seo="true" mt="1547819191724" redirect="true"/>
+  <file name="subjects.html" crc="3838775263" seo="true" mt="1547819108253" redirect="true"/>
+  <file name="service-areas.html" crc="310745416" seo="true" mt="1547819302076" redirect="true"/>
+</manifest>
