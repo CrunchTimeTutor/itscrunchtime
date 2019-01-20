@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="crunchtimertutoring.com" resolutions="1x" timestamp="1547982035157">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="crunchtimertutoring.com" resolutions="1x" timestamp="1547983176921">
   <folder name="css">
     <file name="site_global.css" crc="4097247760"/>
     <file name="master_a-master-copy.css" crc="3966269793" ref="index:subjects:service-areas:contact"/>
@@ -19,7 +19,7 @@
     <file name="require.js" crc="85721165" ref="phone>contact:phone>areas:phone>subjects:phone>index:index:contact:subjects:service-areas"/>
   </folder>
   <folder name="images">
-    <file name="untitled-2111-crop-u2238.jpg" crc="4033969998" seo="true" ref="phone>contact:phone>areas:phone>subjects:phone>index">
+    <file name="untitled-2111-crop-u2238.jpg" crc="4281346358" seo="true" ref="phone>contact:phone>areas:phone>subjects:phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -41,7 +41,7 @@
     </file>
     <file name="u2694-4.png" crc="5982565" ref="phone>contact:phone>areas:phone>subjects:phone>index"/>
     <file name="u2725-4.png" crc="439404480" ref="phone>contact"/>
-    <file name="u2590-6.png" crc="3971356669" ref="phone>contact"/>
+    <file name="u2590-6.png" crc="4098318689" ref="phone>contact"/>
     <file name="pasted image 159x177.jpg" crc="4173773706" seo="true" ref="phone>contact:contact">
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -63,7 +63,7 @@
     </file>
     <file name="u2346-4.png" crc="411113707" ref="phone>contact:phone>areas:phone>subjects:phone>index"/>
     <file name="u2725-42.png" crc="117017175" ref="phone>contact"/>
-    <file name="u2590-62.png" crc="92083980" ref="phone>contact"/>
+    <file name="u2590-62.png" crc="3777217370" ref="phone>contact"/>
     <file name="pasted image 928x69636x27.jpg" crc="3976220111" seo="true" ref="phone>contact">
       <caption webpage="contact" alt=""/>
     </file>
@@ -226,19 +226,19 @@
     <folder name="css">
       <file name="master_a-master.css" crc="495109509" ref="phone>index:phone>contact:phone>areas:phone>subjects"/>
       <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index:phone>contact:phone>areas:phone>subjects"/>
-      <file name="index.css" crc="3955396878" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3760797285" ref="phone>index"/>
-      <file name="contact.css" crc="3934436068" ref="phone>contact"/>
-      <file name="nomq_contact.css" crc="3905024234" ref="phone>contact"/>
-      <file name="areas.css" crc="520290827" ref="phone>areas"/>
-      <file name="nomq_areas.css" crc="4160688567" ref="phone>areas"/>
-      <file name="subjects.css" crc="4164181099" ref="phone>subjects"/>
-      <file name="nomq_subjects.css" crc="451349947" ref="phone>subjects"/>
+      <file name="index.css" crc="3805762630" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3846931722" ref="phone>index"/>
+      <file name="contact.css" crc="3791605956" ref="phone>contact"/>
+      <file name="nomq_contact.css" crc="242290258" ref="phone>contact"/>
+      <file name="areas.css" crc="469552771" ref="phone>areas"/>
+      <file name="nomq_areas.css" crc="20328620" ref="phone>areas"/>
+      <file name="subjects.css" crc="35664266" ref="phone>subjects"/>
+      <file name="nomq_subjects.css" crc="4286965851" ref="phone>subjects"/>
     </folder>
-    <file name="contact.html" crc="4144485690" seo="true" mt="1547981266819" redirect="true"/>
-    <file name="areas.html" crc="3904604216" seo="true" mt="1547981251952" redirect="true"/>
-    <file name="subjects.html" crc="4068822917" seo="true" mt="1547981228616" redirect="true"/>
-    <file name="index.html" crc="3857326774" seo="true" mt="1547981095027" redirect="true"/>
+    <file name="contact.html" crc="4158865477" seo="true" mt="1547983144540" redirect="true"/>
+    <file name="areas.html" crc="3836313007" seo="true" mt="1547982931177" redirect="true"/>
+    <file name="subjects.html" crc="3810398678" seo="true" mt="1547982931177" redirect="true"/>
+    <file name="index.html" crc="3805382825" seo="true" mt="1547982963224" redirect="true"/>
   </folder>
   <file name="index.html" crc="4177695383" seo="true" mt="1547981997227" redirect="true"/>
   <file name="contact.html" crc="176931657" seo="true" mt="1547942543929" redirect="true"/>
